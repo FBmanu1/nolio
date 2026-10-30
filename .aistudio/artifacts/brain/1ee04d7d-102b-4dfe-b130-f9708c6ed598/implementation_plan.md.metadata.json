@@ -1,0 +1,6 @@
+{
+  "summary":  "Plan d'architecture et de conception pour Nolio, marketplace SaaS internationale mettant en relation annonceurs et créateurs de contenu. Détaille l'audit de l'environnement Supabase existant, la préservation de la table public.profiles, l'extension du schéma relationnel, le design system compact inspiré de Contra, les trois espaces dédiés (Annonceur, Créateur, Administrateur), ainsi que les flux de données et de sécurité.",
+  "updatedAt":  "2026-10-30T12:51:57.428092595Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Nolio — Plateforme de Promotion par les Créateurs",
+  "description": "Marketplace internationale connectant entreprises, fondateurs de SaaS et créateurs de contenu pour des campagnes de promotion basées sur la performance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
